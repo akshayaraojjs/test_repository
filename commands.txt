@@ -1,7 +1,8 @@
-pip install google-generativeai
 pip install python-dotenv
 
 pip install google-genai
 
 new line added
 stash 2
+
+New line added in command-code
